@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Lesson_3.4</string>
+    <string name="et_input_hint_text">Input text</string>
+    <string name="btn_transition">→</string>
+
+</resources>

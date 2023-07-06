@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lesson_3.4</string>
+    <string name="et_input_hint_text">Введите текст</string>
+    <string name="btn_transition">→</string>
+</resources>
